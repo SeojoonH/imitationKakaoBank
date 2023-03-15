@@ -28,7 +28,7 @@
 
 ## 구현
 ### 탑바
-- [1차 시도](https://codepen.io/seojoon/pen/dyqmxar?editors=1100)
+- [1차 시도](https://codepen.io/seojoon/pen/dyqmxar?editors=1100) / 23.03.15
     - 목표
         - 탑바의 레이아웃
 
