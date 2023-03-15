@@ -1,0 +1,8 @@
+/* 커스텀 */
+.con {
+  width: 1080px;
+}
+
+.con-min-width {
+  min-width: 1080px;
+}
