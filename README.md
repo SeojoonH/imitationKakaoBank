@@ -1,4 +1,4 @@
-# 카카오뱅크 모작
+# 카카오뱅크 모작 (~ing)
 주소 : https://seojoonh.github.io/imitationKakaoBank
 ---
 
