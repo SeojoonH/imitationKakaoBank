@@ -3,6 +3,12 @@
 ---
 
 ## 유용한 지식
+- 2차 메뉴 생성
+    - a 태그 아래 div 태그 생성
+        - 생성된 div 태그에 2차 메뉴 관련 속성 적용
+            - display: none (hover 전까지는 표시 x)
+            - position: absolute (width 값 전체를 사용하기 위해)
+            - left: 0 (width 값 처음부터 사용)
 
 
 ---
