@@ -35,3 +35,7 @@
 - [2차 시도](https://codepen.io/seojoon/pen/GRXdYBq) / 23.03.16
     - 목표
         - 탑바 세부 레이아웃
+
+- [3차 시도](https://codepen.io/seojoon/pen/qBMYQXN) / 23.03.16
+    - 목표
+        - 탑바 세부 디자인
