@@ -50,6 +50,37 @@ body {
   display: block;
 }
 
+/* 탑바 메뉴 박스 1 - 2차 메뉴 */
+.top-bar .menu-box-1 > ul > li {
+  background-color: skyblue;
+}
+
+.top-bar .menu-box-1 > ul > li > div {
+  height: 300px;
+  width: 100%;
+  background-color: red;
+  display: none;
+  position: absolute;
+  left: 0;
+}
+
+.top-bar .menu-box-1 > ul > li:nth-child(2) > div {
+  background-color: yellow;
+}
+
+.top-bar .menu-box-1 > ul > li:nth-child(3) > div {
+  background-color: green;
+}
+
+.top-bar .menu-box-1 > ul > li:nth-child(4) > div {
+  background-color: blue;
+}
+
+.top-bar .menu-box-1 > ul > li:hover > div {
+  display: block;
+}
+
+
 /* 탑바 메뉴 박스 1 */
 
 .top-bar .btn-go-submit {

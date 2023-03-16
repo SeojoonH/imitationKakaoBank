@@ -39,3 +39,7 @@
 - [3차 시도](https://codepen.io/seojoon/pen/qBMYQXN) / 23.03.16
     - 목표
         - 탑바 세부 디자인
+
+- [4차 시도](https://codepen.io/seojoon/pen/qBMYQXN) / 23.03.16
+    - 목표
+        - 2차 메뉴 레이아웃
