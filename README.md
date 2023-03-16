@@ -32,7 +32,7 @@
 
 ---
 
-## 구현
+## 구현 (링크 설명: 매 차수 진행 확인 가능한 코드펜으로 연결)
 ### 탑바
 - [1차 시도](https://codepen.io/seojoon/pen/dyqmxar?editors=1100) / 23.03.15
     - 목표
@@ -46,6 +46,6 @@
     - 목표
         - 탑바 세부 디자인
 
-- [4차 시도](https://codepen.io/seojoon/pen/qBMYQXN) / 23.03.16
+- [4차 시도](https://codepen.io/seojoon/pen/NWLMJXL) / 23.03.16
     - 목표
         - 2차 메뉴 레이아웃
