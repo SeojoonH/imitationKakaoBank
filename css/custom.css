@@ -6,3 +6,13 @@
 .con-min-width {
   min-width: 1080px;
 }
+
+.top-bar {
+  height: 100px;
+}
+
+.top-bar .btn-go-submit {
+  background-color: #fede22;
+  padding: 10px;
+  border-radius: 20px;
+}
