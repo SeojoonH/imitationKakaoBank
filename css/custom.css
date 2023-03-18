@@ -25,38 +25,46 @@ body {
   border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
+.top-bar .logo {
+  padding: 0 20px;
+}
+
 .top-bar .menu-box-1 > ul > li > a {
   padding: 0 20px;
   position: relative;
+  font-weight: 400;
+  font-size: 15px;
 }
 
-.top-bar .menu-box-1 > ul > li:hover > a {
+.top-bar .menu-box-1 ul > li:hover > a {
   text-decoration: underline;
 }
 
 .top-bar .menu-box-1 > ul > li > a::after {
   content: "";
-  background-color: #000000;
-  width: 100%;
-  height: 3px;
+  background-color: var(--color-black);
   position: absolute;
   bottom: 0;
   left: 0;
-  display: none;
+  width: 0;
+  height: 2px;
+  transition: width .3s;
 }
 
 .top-bar .menu-box-1 > ul > li:hover > a::after {
-  display: block;
+  width: 100%;
 }
 
 /* 탑바 메뉴 박스 1 - 2차 메뉴 */
 
 .top-bar .menu-box-1 > ul > li > div {
-  width: 100%;
-  background-color: yellow;
-  display: none;
-  position: absolute;
   left: 0;
+  top: calc(100% + 1px);
+  width: 100%;
+  background-color: var(--color-white);
+  position: absolute;
+  display: none;
+  padding-top: 30px;
 }
 
 .top-bar .menu-box-1 > ul > li:hover > div {
@@ -72,20 +80,40 @@ body {
 }
 
 .top-bar .menu-box-1 > ul > li > div > div > ul > li > a {
-  padding: 30px 0;
-  font-weight: 500;
+  font-size: 17px;
+  font-weight: 400;
   text-align: center;
+  margin-bottom: 24px;
 }
 
-.top-bar .menu-box-1 > ul > li > div > div > ul > li:hover > a {
-  text-decoration: underline;
+/* 탑바 - 메뉴 박스 1 - 3차 메뉴 */
+
+.top-bar .menu-box-1 > ul > li > div > div > ul > li > ul > li > a {
+  text-align: center;
+  font-size: 13px;
+  margin-bottom: 24px;
 }
 
-/* 탑바 메뉴 박스 1 */
+/* 탑바 - 서류 제출 버튼 */
 
 .top-bar .btn-go-submit {
-  background-color: #fede22;
-  padding: 14px;
+  background-color: var(--color-kakao);
+  padding: 15px;
+  margin-left: 20px;
   border-radius: 25px;
-  border: 1px solid #fede22;
+  font-weight: 400;
+  border: 1px solid var(--color-kakao);
 }
+
+/* 탑바 - 언어 변경 */ 
+.top-bar .global-logo {
+  padding: 0 20px;
+  margin-left: 20px;
+  cursor: default;
+}
+
+.top-bar .global-logo:hover > img {
+  opacity: .3;
+}
+
+/* 탑바 끝 */

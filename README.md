@@ -53,3 +53,7 @@
 - [5차 시도](https://codepen.io/seojoon/pen/MWqBjKN) / 23.03.16
     - 목표
         - 2차 메뉴, 2차 메뉴 아이템
+
+- [6차 시도](https://codepen.io/seojoon/pen/dyqjpKd) / 23.03.16
+    - 목표
+        - 2차 메뉴 완성
