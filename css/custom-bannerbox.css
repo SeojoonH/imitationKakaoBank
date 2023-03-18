@@ -1,0 +1,9 @@
+img-box > img {
+  width: 100%;
+  display: block; /* 의미 없는 여백 제거 위해 */
+}
+
+.top-banner-box-1 {
+  background-color: var(--color-kakao-banner1);
+}
+
