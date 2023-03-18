@@ -32,7 +32,7 @@
 
 ---
 
-## 구현 (링크 설명: 매 차수 진행 확인 가능한 코드펜으로 연결)
+## 구현 - 단계별 과정 (링크 설명: 매 차수 진행 확인 가능한 코드펜으로 연결)
 ### 탑바
 - [1차 시도](https://codepen.io/seojoon/pen/dyqmxar?editors=1100) / 23.03.15
     - 목표
@@ -61,3 +61,8 @@
 - [7차 시도](https://codepen.io/seojoon/pen/mdGjOpN) / 23.03.18
     - 목표
         - 2차 메뉴가 중간에 닫히는 버그 수정
+
+### 상단 배너박스 1
+- [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
+    - 목표
+        - 기본 레이아웃 작업
