@@ -11,6 +11,7 @@
 
 body {
   height: 10000px;
+  background-color: var(--color-kakao);
 }
 
 /* 탑바 시작 */
@@ -21,7 +22,7 @@ body {
   top: 0;
   width: 100%;
   height: 100px;
-  background-color: #fff;
+  background-color: var(--color-white);
   border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
@@ -42,12 +43,13 @@ body {
 
 .top-bar .menu-box-1 > ul > li > a::after {
   content: "";
-  background-color: var(--color-black);
-  position: absolute;
-  bottom: 0;
   left: 0;
   width: 0;
-  height: 2px;
+  height: 1px;
+  bottom: -1px;  /* 끊어지는 버그를 연결하기 위해 아래 범위까지 bottom을 내림 */
+  background-color: transparent; /* bottom 컬러를 부모색과 맞춰서 투명화, 안 써도 무방함 */
+  border-top: 2px solid var(--color-black); /* border-top을 줘서 bottom 역할을 대신함 */
+  position: absolute;
   transition: width .3s;
 }
 
@@ -64,6 +66,7 @@ body {
   background-color: var(--color-white);
   position: absolute;
   display: none;
+  padding-bottom: 40px;
   padding-top: 30px;
 }
 
@@ -73,6 +76,7 @@ body {
 
 .top-bar .menu-box-1 > ul > li > div > div > ul > li {
   width: 20%;
+  padding-top: 30px;
 }
 
 .top-bar .menu-box-1 > ul > li:first-child > div > div > ul > li {
