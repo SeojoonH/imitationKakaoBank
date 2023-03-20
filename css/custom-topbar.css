@@ -7,11 +7,15 @@
   min-width: 1080px;
 }
 
+.img-box > img {
+  width: 100%;
+  display: block; /* 의미 없는 여백 제거 위해 */
+}
+
 /* 임시 */
 
 body {
   height: 10000px;
-  background-color: var(--color-kakao);
 }
 
 /* 탑바 시작 */
@@ -24,6 +28,7 @@ body {
   height: 100px;
   background-color: var(--color-white);
   border-bottom: 1px solid rgba(0,0,0,0.1);
+  z-index: 1000;
 }
 
 .top-bar .logo {
