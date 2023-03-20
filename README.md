@@ -10,14 +10,6 @@
             - position: absolute (width 값 전체를 사용하기 위해)
             - left: 0 (width 값 처음부터 사용)
 
-
----
-## 유용한 링크
-- [유튜브 - 지혜김](https://www.youtube.com/@hye_______ji)
-- [유튜브 - 코딩알려주는누나](https://www.youtube.com/@user-yu8so2ck1z)
-- [유튜브 - 생활코딩](https://www.youtube.com/@coohde)
-- [유튜브- 코딩앙마](https://www.youtube.com/@codingangma)
-
 ---
 
 ## 관련링크
@@ -66,3 +58,7 @@
 - [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
     - 목표
         - 기본 레이아웃 작업
+
+- [2차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
+    - 목표
+        - 배경 이미지 덮기
