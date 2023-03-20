@@ -7,9 +7,12 @@
   min-width: 1080px;
 }
 
-.img-box > img {
-  width: 100%;
+.img-box > .bgImg {
+  height: 884px;
+  max-width: 1200px;
+  width: auto;
   display: block; /* 의미 없는 여백 제거 위해 */
+  position: relative;
 }
 
 /* 임시 */

@@ -61,4 +61,8 @@
 
 - [2차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
     - 목표
-        - 배경 이미지 덮기
+        - 올바른 배경색 덮기
+
+- [3차 시도](https://codepen.io/seojoon/pen/yLxxaQL) / 23.03.18
+    - 목표
+        - 텍스트 박스 레이아웃

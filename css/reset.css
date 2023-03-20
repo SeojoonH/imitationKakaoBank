@@ -18,3 +18,8 @@ html {
   --color-navy: #000080;
   --color-purple: #800080;
 }
+
+h3, p {
+  margin: 0;
+  padding: 0;
+}
