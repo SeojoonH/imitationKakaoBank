@@ -1,0 +1,94 @@
+
+/* cos lib */
+.ico {
+  background-color: var(--color-white);
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  background-image: url(https://www.kakaobank.com/static/images/web/img_kabang_220615.png);
+}
+
+.ico-1 {
+  background-position: -341px -292px;
+}
+
+.ico-2 {
+  background-position: -371px -292px;
+}
+
+
+/* 상단 배너 박스 1 */
+
+.img-box > img {
+  width: 100%;
+  height: 886px;
+  display: block;
+  margin-top: 80px;
+}
+
+.top-banner-box-1 {
+  position: relative;
+}
+
+.top-banner-box-1 .bg {
+  height: 721px;
+  width: 100%;
+  background-color: var(--color-kakao-banner1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+
+
+/* 상단 배너 박스 1 - 텍스트 박스 */
+
+.top-banner-box-1 .txt-box {
+  position: absolute;
+  top: 112px;
+  left: 12px;
+}
+
+.top-banner-box-1 .txt-box > h1 {
+  font-size: 49px;
+  line-height: 1.4;
+}
+
+.top-banner-box-1 .txt-box > h3 {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.95;
+  opacity: .7;
+}
+
+.top-banner-box-1 .txt-box > .btns {
+  margin-top: 50px;
+}
+
+.top-banner-box-1 .txt-box > .btns > li:not(:first-child) {
+  margin-left: 10px;
+}
+
+.top-banner-box-1 .txt-box > .btns > li > a {
+  display: flex;
+  width: 178px;
+  height: 56px;
+  background-color: var(--color-white);
+  color: #333;
+  font-size: 16.2px;
+  font-weight: bold;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-banner-box-1 .txt-box > .btns > li:hover > a {
+  text-decoration: underline;
+} 
+
+.top-banner-box-1 .txt-box > .btns > li > a > .ico {
+  margin-right: 8px;
+}
+
+/* 상단 배너박스 1 끝 */

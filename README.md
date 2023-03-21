@@ -66,3 +66,7 @@
 - [3차 시도](https://codepen.io/seojoon/pen/yLxxaQL) / 23.03.18
     - 목표
         - 텍스트 박스 레이아웃
+
+- [4차 시도](https://codepen.io/seojoon/pen/VwGGNKK) / 23.03.18
+    - 목표
+        - 텍스트 박스 합치기
