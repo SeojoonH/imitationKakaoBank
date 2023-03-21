@@ -5,6 +5,7 @@ html {
 
 :root {
   --color-black: #000000;
+  --color-gray-100: #fafafa;
   --color-white: #ffffff;
   --color-red: #ff0000;
   --color-pink: #ffc0cb;
@@ -17,6 +18,7 @@ html {
   --color-blue: #0000ff;
   --color-navy: #000080;
   --color-purple: #800080;
+  --color-gold: #ffd700;
 }
 
 h3, p {

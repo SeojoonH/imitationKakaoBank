@@ -54,6 +54,7 @@
     - 목표
         - 2차 메뉴가 중간에 닫히는 버그 수정
 
+
 ### 상단 배너박스 1
 - [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
     - 목표
@@ -70,3 +71,9 @@
 - [4차 시도](https://codepen.io/seojoon/pen/VwGGNKK) / 23.03.18
     - 목표
         - 텍스트 박스 합치기
+
+
+### 상단 배너박스 2 ~ 6 
+- [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
+    - 목표
+        - 기본 레이아웃 작업
