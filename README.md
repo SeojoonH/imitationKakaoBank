@@ -50,35 +50,35 @@
     - 목표
         - 2차 메뉴 완성
 
-- [7차 시도](https://codepen.io/seojoon/pen/mdGjOpN) / 23.03.18
+- [7차 시도](https://codepen.io/seojoon/pen/mdGjOpN) / 23.03.19
     - 목표
         - 2차 메뉴가 중간에 닫히는 버그 수정
 
 
 ### 상단 배너박스 1
-- [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
+- [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.19
     - 목표
         - 기본 레이아웃 작업
 
-- [2차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
+- [2차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.19
     - 목표
         - 올바른 배경색 덮기
 
-- [3차 시도](https://codepen.io/seojoon/pen/yLxxaQL) / 23.03.18
+- [3차 시도](https://codepen.io/seojoon/pen/yLxxaQL) / 23.03.21
     - 목표
         - 텍스트 박스 레이아웃
 
-- [4차 시도](https://codepen.io/seojoon/pen/VwGGNKK) / 23.03.18
+- [4차 시도](https://codepen.io/seojoon/pen/VwGGNKK) / 23.03.21
     - 목표
         - 텍스트 박스 합치기
 
 
 ### 상단 배너박스 2 ~ 6 
-- [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
+- [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.21
     - 목표
         - 기본 레이아웃 작업
 
-- [2차 시도](https://codepen.io/seojoon/pen/RwYebLe) / 23.03.18
+- [2차 시도](https://codepen.io/seojoon/pen/RwYebLe) / 23.03.22
     - 목표
         - 기본 레이아웃 작업
 
