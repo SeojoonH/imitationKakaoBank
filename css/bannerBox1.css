@@ -1,4 +1,3 @@
-
 /* cos lib */
 .ico {
   background-color: var(--color-white);
@@ -17,21 +16,13 @@
 }
 
 
-/* 상단 배너 박스 1 */
-
-.img-box > img {
-  width: 100%;
-  height: 886px;
-  display: block;
-  margin-top: 80px;
-}
-
+/* 상단 배너박스 1 시작 */
 .top-banner-box-1 {
   position: relative;
 }
 
 .top-banner-box-1 .bg {
-  height: 721px;
+  height: 803px;
   width: 100%;
   background-color: var(--color-kakao-banner1);
   position: absolute;
@@ -40,19 +31,26 @@
   z-index: -1;
 }
 
+.top-banner-box-1 .img-box > img {
+  width: 1200px;
+  height: 1050px;
+  object-fit: contain;
+  background-position: center;
+}
 
 
 /* 상단 배너 박스 1 - 텍스트 박스 */
 
 .top-banner-box-1 .txt-box {
   position: absolute;
-  top: 112px;
-  left: 12px;
+  top: 220px;
+  left: 52px;
 }
 
 .top-banner-box-1 .txt-box > h1 {
   font-size: 49px;
   line-height: 1.4;
+  margin-bottom: 12px;
 }
 
 .top-banner-box-1 .txt-box > h3 {
@@ -60,6 +58,7 @@
   font-weight: 300;
   line-height: 1.95;
   opacity: .7;
+  margin-bottom: 12px;
 }
 
 .top-banner-box-1 .txt-box > .btns {

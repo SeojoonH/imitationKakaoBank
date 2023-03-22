@@ -71,3 +71,21 @@
 .relative {
   position: relative;
 }
+
+
+/* 커스텀 */
+.con {
+  width: 1100px;
+}
+
+.con-min-width {
+  min-width: 1080px;
+}
+
+
+
+/* 임시 */
+
+body {
+  height: 10000px;
+}

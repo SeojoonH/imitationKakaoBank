@@ -77,3 +77,9 @@
 - [1차 시도](https://codepen.io/seojoon/pen/zYJLNGy) / 23.03.18
     - 목표
         - 기본 레이아웃 작업
+
+- [2차 시도](https://codepen.io/seojoon/pen/RwYebLe) / 23.03.18
+    - 목표
+        - 기본 레이아웃 작업
+
+        

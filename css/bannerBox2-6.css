@@ -1,19 +1,20 @@
 /* 상단 배너 박스 2 ~ 6 시작 */
 
+/* 상단 배너 박스 타입 1 시작 */
+
 .top-banner-box-type-1 {
   min-height: 500px;
   display: flex;
-  border: 5px solid red;
 }
 
 .top-banner-box-type-1 > div:first-child {
-  background-color: var(--color-gold);
-  width: 58%;
+  width: 53%;
 }
 
 .top-banner-box-type-1 > div:last-child {
-  background-color: var(--color-green);
   flex-grow: 1;
+  display: flex;
+  align-items: center;
 }
 
 .top-banner-box-type-1-between-pad {
@@ -22,4 +23,51 @@
   height: 32px;
 }
 
-/* 상단 배너 박스 2 ~ 6 끝 */
+/* 상단 배너 박스 타입 1 끝 */
+
+/* 상단 배너 박스 2 시작 */
+
+.top-banner-box-2 .img-box {
+  text-align: center;
+}
+
+.top-banner-box-2 .img-box > img {
+  width: 473px;
+}
+
+.top-banner-box-2 .txt-con {
+  justify-content: center;
+}
+
+.top-banner-box-2 .txt-box > h1 {
+  font-size: 40px;
+  line-height: 1.35;
+}
+
+.top-banner-box-2 .txt-box .des {
+  margin-top: 24px;
+  font-size: 15px;
+  font-weight: 400px;
+  line-height: 1.7;
+  color: #666;
+}
+
+.top-banner-box-2 .txt-box .btn-box {
+  margin-top: 40px;
+  display: flex;
+}
+
+.top-banner-box-2 .txt-box .btn-box > a {
+  display: block;
+  background-color: #f6f6f6;
+  width: 258px;
+  height: 56px;
+  font-size: 16px;
+  line-height: 56px;
+  color: #333;
+  border-radius: 10px;
+  text-align: center;
+}
+
+
+/* 상단 배너 박스 2 끝 */
