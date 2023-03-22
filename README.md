@@ -80,6 +80,10 @@
 
 - [2차 시도](https://codepen.io/seojoon/pen/RwYebLe) / 23.03.22
     - 목표
-        - 기본 레이아웃 작업
+        - 상단 배너 박스 2 레이아웃 잡기
 
+- [3차 시도](https://codepen.io/seojoon/pen/GRXYGbL) / 23.03.22
+    - 목표
+        - 상단 배너 박스 3 레이아웃 잡기
         
+

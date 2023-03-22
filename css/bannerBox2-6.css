@@ -8,7 +8,7 @@
 }
 
 .top-banner-box-type-1 > div:first-child {
-  width: 53%;
+  width: 55%;
 }
 
 .top-banner-box-type-1 > div:last-child {
@@ -23,28 +23,12 @@
   height: 32px;
 }
 
-/* 상단 배너 박스 타입 1 끝 */
-
-/* 상단 배너 박스 2 시작 */
-
-.top-banner-box-2 .img-box {
-  text-align: center;
-}
-
-.top-banner-box-2 .img-box > img {
-  width: 473px;
-}
-
-.top-banner-box-2 .txt-con {
-  justify-content: center;
-}
-
-.top-banner-box-2 .txt-box > h1 {
+.top-banner-box-type-1 .txt-box > h1 {
   font-size: 40px;
   line-height: 1.35;
 }
 
-.top-banner-box-2 .txt-box .des {
+.top-banner-box-type-1 .txt-box .des {
   margin-top: 24px;
   font-size: 15px;
   font-weight: 400px;
@@ -52,12 +36,12 @@
   color: #666;
 }
 
-.top-banner-box-2 .txt-box .btn-box {
+.top-banner-box-type-1 .txt-box .btn-box {
   margin-top: 40px;
   display: flex;
 }
 
-.top-banner-box-2 .txt-box .btn-box > a {
+.top-banner-box-type-1 .txt-box .btn-box > a {
   display: block;
   background-color: #f6f6f6;
   width: 258px;
@@ -69,5 +53,68 @@
   text-align: center;
 }
 
+.top-banner-box-type-1 .txt-box .btn-box > a:hover > span {
+  text-decoration: underline;
+}
 
+.top-banner-box-type-1 .txt-box .btn-box > a:after {
+  content: ">";
+  margin-left: 10px;
+}
+
+.top-banner-box-type-1 .txt-box .btn-box > a:not(:only-child) {
+  width: 158px;
+}
+
+.top-banner-box-type-1 .txt-box .btn-box > a:not(:last-child) {
+  margin-right: 5px;
+}
+
+/* 상단 배너 박스 타입 1 끝 */
+
+/* 상단 배너 박스 2 시작 */
+
+.top-banner-box-2 .img-box {
+  text-align: start;
+}
+
+.top-banner-box-2 .img-box > img {
+  width: 473px;
+}
+
+.top-banner-box-2 .txt-con {
+  justify-content: center;
+}
 /* 상단 배너 박스 2 끝 */
+
+
+/* 상단 배너 박스 3 시작 */
+
+.top-banner-box-3 .txt-con {
+  position: relative;
+}
+
+.top-banner-box-3 .txt-con .txt-box {
+  position: absolute;
+  top: 172px;
+  height: 50%;
+  margin-left: 50px;
+}
+
+.top-banner-box-3 .txt-box > .img-box-1 {
+  margin-top: 50px;
+}
+
+.top-banner-box-3 .txt-box > .img-box-1 > img {
+  width: 440px;
+}
+
+.top-banner-box-3 .img-con {
+  justify-content: flex-end;
+}
+
+.top-banner-box-3 .img-box > img {
+  width: 409px;
+}
+
+/* 상단 배너 박스 3 끝 */
