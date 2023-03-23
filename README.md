@@ -86,6 +86,13 @@
     - 목표
         - 상단 배너 박스 3 레이아웃 잡기
         
-- [4차 시도](https://codepen.io/seojoon/pen/MWqzmzy) / 23.03.22
+- [4차 시도](https://codepen.io/seojoon/pen/MWqzmzy) / 23.03.23
     - 목표
         - 상단 배너 박스 4, 5, 6 레이아웃 잡기
+
+- [4차 시도](https://codepen.io/seojoon/pen/PodxjRw) / 23.03.23
+    - 목표
+        - 세부 디자인
+
+
+        
