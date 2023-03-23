@@ -72,10 +72,14 @@
   position: relative;
 }
 
+.img-box > img {
+  width: 100%;
+  display: block; /* 쓸데없는 여백을 제거하기 위해 */
+}
 
 /* 커스텀 */
 .con {
-  width: 1100px;
+  width: 1080px;
 }
 
 .con-min-width {
